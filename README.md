@@ -1,0 +1,2 @@
+# medical-treatment
+In medicine, for an effective medical treatment, you need to understand the patient diagnostic results, which guilds you for efficient prognosis. In this series, you will understand the essential tools to consider when developing an AI model for medical treatment. This repo contains my assignments during the cause of training. I hope this will help you in your journey in AI application for Medicine. Other suggestions are welcome. 
